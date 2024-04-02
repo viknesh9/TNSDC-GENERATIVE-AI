@@ -28,7 +28,7 @@ Modify the model architecture or hyperparameters as needed for experimentation.
 
 Results
 
-The trained CNN model achieved an accuracy of X% on the test dataset, demonstrating its effectiveness in predicting heart disease based on the given health attributes.
+The trained CNN model achieved an accuracy of 83% on the test dataset, demonstrating its effectiveness in predicting heart disease based on the given health attributes.
 
 Future Work
 
