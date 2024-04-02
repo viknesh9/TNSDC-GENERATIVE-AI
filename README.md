@@ -2,7 +2,7 @@ Heart Disease Prediction Using Convolutional Neural Network
 
 Overview
 
-This project focuses on predicting heart disease using Convolutional Neural Networks (CNNs). The goal is to classify patients into different categories based on health attributes such as blood pressure, cholesterol levels, and heart rate, indicating varying degrees of coronary artery disease. The dataset used in this project consists of information from 303 patients and is sourced from the UCI Machine Learning Repository.
+This project focuses on predicting heart disease using Convolutional Neural Networks (CNNs). The goal is to classify patients into different categories based on health attributes such as blood pressure, cholesterol levels, and heart rate, indicating varying degrees of coronary artery disease. The dataset used in this project consists of information from 270 patients and is sourced from the UCI Machine Learning Repository.
 
 Installation
 
